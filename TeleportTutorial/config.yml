@@ -1,0 +1,5 @@
+# TeleportTutorial main configuration
+Config-Version: 1
+Compatibles:
+  Vault: true
+  Economy: false

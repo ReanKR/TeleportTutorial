@@ -1,0 +1,5 @@
+name: TeleportTutorial
+version: 1.0.0
+author: Rean KR
+main: org.whitehack97.TeleportTutorial.main.TeleportTutorial
+description: No description.
